@@ -13,3 +13,4 @@ pluginManagement {
     }
 }
 rootProject.name = "kvision-realworld-example-app-fullstack"
+include("automation")
